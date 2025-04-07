@@ -1,0 +1,27 @@
+:root{
+    --main:#ff0000;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none !important;
+   outline: none !important;
+   text-decoration: none !important;
+   
+   
+}
+*::selection{
+    background: var(--main);
+    color: #000;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-thumb{
+    background: var(--main);
+}
+::-webkit-scrollbar-track {
+    background: #000;
+}
