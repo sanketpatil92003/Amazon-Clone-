@@ -1,2 +1,2 @@
 # Amazon-Clone-
-Amazon Clone using Reactjs html css 
+Amazon Clone using Reactjs HTML CSS 
